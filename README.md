@@ -1,2 +1,2 @@
 # mywebsite
-just a very basic website for DeeJaVu.
+just a very basic website for DeeJaVu ;)
